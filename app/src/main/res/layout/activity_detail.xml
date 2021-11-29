@@ -74,7 +74,7 @@
                             android:layout_below="@+id/textView"
                             android:textColor="@color/colorPrimaryDark"
                             android:textSize="16sp"
-                            android:text="INI JUDUL" />
+                            android:text="INI JUDUL MOVIE" />
                     </RelativeLayout>
 
                     <RelativeLayout
@@ -96,7 +96,7 @@
                             android:layout_below="@+id/textView2"
                             android:textColor="@color/colorPrimaryDark"
                             android:textSize="16sp"
-                            android:text="Ini Sinopsis "/>
+                            android:text="Ini Sinopsis Lengkap Movie"/>
                     </RelativeLayout>
 
                 </LinearLayout>
