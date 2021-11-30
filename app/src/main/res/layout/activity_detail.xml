@@ -72,7 +72,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_below="@+id/textView"
-                            android:textColor="@color/colorPrimaryDark"
+                            android:textColor="@color/black"
                             android:textSize="16sp"
                             android:text="INI JUDUL MOVIE" />
                     </RelativeLayout>
@@ -94,7 +94,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_below="@+id/textView2"
-                            android:textColor="@color/colorPrimaryDark"
+                            android:textColor="@color/black"
                             android:textSize="16sp"
                             android:text="Ini Sinopsis Lengkap Movie"/>
                     </RelativeLayout>
