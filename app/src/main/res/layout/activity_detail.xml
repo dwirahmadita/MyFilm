@@ -26,7 +26,7 @@
                     android:layout_marginStart="10dp"
                     android:layout_marginBottom="3dp"
                     android:gravity="center"
-                    app:cardBackgroundColor="@color/colorPrimary"
+                    app:cardBackgroundColor="@color/bg"
                     app:cardCornerRadius="5dp"
                     app:cardElevation="3dp">
 
@@ -45,7 +45,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardBackgroundColor="@color/bg"
                 app:cardCornerRadius="10dp"
                 app:cardElevation="3dp">
 
@@ -73,7 +73,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_below="@+id/textView"
-                            android:textColor="@color/colorPrimaryDark"
+                            android:textColor="@color/black"
                             android:textSize="16sp"
                             android:text="INI JUDUL" />
                     </RelativeLayout>
@@ -95,7 +95,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_below="@+id/textView2"
-                            android:textColor="@color/colorPrimaryDark"
+                            android:textColor="@color/black"
                             android:textSize="16sp"
                             android:text="Ini Sinopsis "/>
                     </RelativeLayout>
