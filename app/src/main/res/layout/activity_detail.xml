@@ -18,7 +18,7 @@
             android:layout_marginTop="20dp"
             android:orientation="vertical">
 
-                <androidx.cardview.widget.CardView
+                <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_margin="20dp"
@@ -36,10 +36,9 @@
                             android:layout_height="300dp"
                             android:layout_gravity="center_horizontal"
                             android:scaleType="centerCrop"
-                            android:src="@drawable/img_placeholder"
-                            app:layout_constraintTop_toBottomOf="@+id/tvJudulDeskripsi" />
+                            android:src="@drawable/img_placeholder"/>
 
-                </androidx.cardview.widget.CardView>
+                </RelativeLayout>
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
